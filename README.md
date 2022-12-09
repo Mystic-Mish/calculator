@@ -1,1 +1,1 @@
-# calculator
+# My calculator does basic functions like addition, subtraction, multiplication and division
